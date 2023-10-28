@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/text_view_clase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/text_view_profesor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/text_view_lugar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/text_view_plazas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:text="Plazas disponibles: "/>
+
+    <TextView
+        android:id="@+id/text_view_fecha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="16sp"/>
+
+</LinearLayout>

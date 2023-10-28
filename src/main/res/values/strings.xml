@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Muscle Gym</string>
+    <string name="body_mass_index_bmi">CALCULADORA DE ÍNDICE IMC</string>
+    <string name="descripci_n">Descripción :</string>
+    <string name="weight">Peso :</string>
+    <string name="height">Altura :</string>
+    <string name="calculate_bmi">CALCULAR IMC</string>
+    <string name="delete_data">BORRAR DATOS</string>
+    <string name="bmi">IMC :</string>
+    <string name="description">DESCRIPCIÓN :</string>
+    <string name="in_kilograms">En Kilogramos</string>
+    <string name="in_meters">En metros</string>
+    <string name="under_weight">BAJO DE PESO</string>
+    <string name="normal_weight">PESO NORMAL</string>
+    <string name="overweight">SOBREPESO</string>
+    <string name="type_1_obesity">OBESIDAD TIPO 1</string>
+    <string name="type_2_obesity">OBESIDAD TIPO 2</string>
+    <string name="type_3_obesity">OBESIDAD TIPO 3</string>
+    <string name="Empty_fields">Debes introducir un peso y una altura</string>
+    <string name="zero_values">El peso y la altura deben ser diferentes de 0</string>
+    <string name="imagesalud">imageSalud</string>
+</resources>
